@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 2
 day: 5
 title: "Срезы списков и копирование"
-concepts: [срезы list[start:end], шаг list[::step], copy() vs присваивание]
 prerequisites: ["[[Week 2 - Day 4 - Sorting]]"]
 tags: [python, списки, срезы, копирование]
 status: draft

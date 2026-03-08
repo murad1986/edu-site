@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 8
 day: 4
 title: "Рекурсия — функция, которая вызывает себя"
-concepts: [рекурсия, базовый случай, стек вызовов, когда не использовать рекурсию]
 prerequisites: ["[[week_8/day_3]]"]
 tags: [python, алгоритмы, рекурсия, стек, fibonacci]
 status: draft

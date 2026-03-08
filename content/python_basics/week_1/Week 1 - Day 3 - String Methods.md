@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 1
 day: 3
 title: "Методы строк: встроенные инструменты"
-concepts: [strip, lower/upper, replace, find/count]
 prerequisites: ["[[Week 1 - Day 1 - String Indexing]]", "[[Week 1 - Day 2 - String Slicing]]"]
 tags: [python, строки, методы]
 status: draft

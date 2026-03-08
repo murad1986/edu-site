@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 10
 day: 3
 title: "День 3 — Свои исключения: ошибки как часть дизайна"
-concepts: [создание своих исключений, raise, иерархия исключений, обработка в game loop]
 prerequisites: ["[[week_10/day_2]]"]
 tags: [python, исключения, try-except, текстовый-квест]
 status: draft

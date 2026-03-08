@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 4
 day: 4
 title: "Система сейвов — сохраняем и загружаем состояние"
-concepts: [паттерн save/load, первый запуск новая игра, атомарная запись через temp-файл]
 prerequisites: ["[[week_4/day_3]]"]
 tags: [python, файлы, json, сохранение, архитектура]
 status: draft

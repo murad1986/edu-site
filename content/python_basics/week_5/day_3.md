@@ -3,11 +3,6 @@ type: lesson
 week: 5
 day: 3
 title: "Область видимости — где живёт переменная"
-concepts:
-  - local scope
-  - global scope
-  - глобальные переменные (когда НЕ использовать)
-  - мутация объектов vs переприсваивание
 prerequisites:
   - week_5/day_2
 tags:

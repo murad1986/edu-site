@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 7
 day: 6
 title: "Практика — система врагов RPG"
-concepts: []
 prerequisites: ["[[week_7/day_5]]"]
 tags: [python, ооп, практика, классы, наследование, инкапсуляция]
 status: draft

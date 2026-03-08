@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 7
 day: 3
 title: "Наследование — класс от класса"
-concepts: [наследование, super().__init__(), переопределение метода, isinstance()]
 prerequisites: ["[[week_7/day_2]]"]
 tags: [python, ооп, наследование, super, isinstance, полиморфизм]
 status: draft

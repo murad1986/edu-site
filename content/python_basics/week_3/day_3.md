@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 3
 day: 3
 title: "Вложенные словари — данные внутри данных"
-concepts: [вложенные dict, dict[key][key], перебор вложенных, структурирование данных]
 prerequisites: ["[[week_3/day_2]]"]
 tags: [python, словари, вложенные-структуры, json]
 status: draft

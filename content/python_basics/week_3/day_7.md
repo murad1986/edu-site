@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 3
 day: 7
 title: "Лонгрид: как данные хранят Minecraft, Dark Souls и YouTube"
-concepts: []
 prerequisites: ["[[week_3/day_6]]"]
 tags: [python, словари, игры, лонгрид, json, базы-данных]
 status: draft

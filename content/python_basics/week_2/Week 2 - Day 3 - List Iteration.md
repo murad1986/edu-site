@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 2
 day: 3
 title: "Перебор списков: for и enumerate"
-concepts: [for item in list, enumerate(), range(len())]
 prerequisites: ["[[Week 2 - Day 2 - List Modification]]"]
 tags: [python, списки, циклы, enumerate]
 status: draft

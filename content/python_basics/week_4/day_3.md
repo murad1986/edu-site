@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 4
 day: 3
 title: "JSON — словари на диске"
-concepts: [json.dumps и json.loads, json.dump и json.load, indent и encoding]
 prerequisites: ["[[week_4/day_2]]"]
 tags: [python, json, файлы, сериализация]
 status: draft

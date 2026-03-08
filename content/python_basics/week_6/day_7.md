@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 6
 day: 7
 title: "Лонгрид: Когда программа молчит об ошибках"
-concepts: []
 prerequisites: ["[[week_6/day_6]]"]
 tags: [python, ошибки, история, безопасность, лонгрид]
 status: draft

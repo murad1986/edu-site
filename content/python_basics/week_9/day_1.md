@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 9
 day: 1
 title: "Архитектура квеста — комнаты и игрок"
-concepts: [класс Room, класс Player, игровой цикл, команды как строки]
 prerequisites: ["[[week_8/day_7]]"]
 tags: [python, текстовый-квест, ооп, проект]
 status: draft

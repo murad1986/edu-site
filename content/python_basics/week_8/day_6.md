@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 8
 day: 6
 title: "Практика — алгоритмические задачи"
-concepts: []
 prerequisites: ["[[week_8/day_5]]"]
 tags: [python, алгоритмы, практика, анаграммы, сортировка, бинарный поиск]
 status: draft

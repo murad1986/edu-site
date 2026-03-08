@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 7
 day: 5
 title: "Магические методы — говорим с Python на его языке"
-concepts: [__str__, __len__, __eq__, __repr__]
 prerequisites: ["[[week_7/day_4]]"]
 tags: [python, ооп, классы, магические методы, dunder методы]
 status: draft

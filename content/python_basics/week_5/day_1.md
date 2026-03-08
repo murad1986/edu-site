@@ -3,11 +3,6 @@ type: lesson
 week: 5
 day: 1
 title: "Функции — def и return"
-concepts:
-  - def
-  - return
-  - параметры и аргументы
-  - вызов функции
 prerequisites:
   - week_4/day_7
 tags:

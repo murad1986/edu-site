@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 7
 day: 2
 title: "Методы — функции внутри класса"
-concepts: [методы экземпляра, __str__, self.метод(), return из метода]
 prerequisites: ["[[week_7/day_1]]"]
 tags: [python, ооп, классы, методы, __str__, self]
 status: draft

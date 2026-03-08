@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 8
 day: 7
 title: "Лонгрид — Алгоритмы вокруг нас: TikTok и GPS"
-concepts: []
 prerequisites: ["[[week_8/day_6]]"]
 tags: [python, алгоритмы, tiktok, gps, рекомендации, дейкстра, лонгрид]
 status: draft

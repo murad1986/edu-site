@@ -3,7 +3,6 @@ type: lesson
 week: 5
 day: 6
 title: "Практика — строим рогалик"
-concepts: []
 prerequisites:
   - week_5/day_5
 tags:

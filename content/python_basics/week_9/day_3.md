@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 9
 day: 3
 title: "День 3 — Предметы: поднять, бросить, использовать"
-concepts: [класс Item, команды взять/бросить/инвентарь, размещение предметов в комнатах, команда использовать]
 prerequisites: ["[[week_9/day_2]]"]
 tags: [python, текстовый-квест, ооп, проект]
 status: draft

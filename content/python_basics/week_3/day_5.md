@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 3
 day: 5
 title: "Структуры вместе — dict, list, set в одной программе"
-concepts: [dict+list+set комбинирование, dict.copy() shallow copy, когда что выбирать]
 prerequisites: ["[[week_3/day_4]]"]
 tags: [python, словари, списки, множества, структуры-данных]
 status: draft

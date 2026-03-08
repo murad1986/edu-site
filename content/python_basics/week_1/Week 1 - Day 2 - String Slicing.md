@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 1
 day: 2
 title: "Срезы: вырезаем кусок строки"
-concepts: [срезы start:stop, шаг step, разворот строки]
 prerequisites: ["[[Week 1 - Day 1 - String Indexing]]"]
 tags: [python, строки, срезы, slicing]
 status: draft

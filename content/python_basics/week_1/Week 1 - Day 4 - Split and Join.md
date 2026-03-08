@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 1
 day: 4
 title: "split и join: строка ↔ список слов"
-concepts: [split, join, базовый парсинг]
 prerequisites: ["[[Week 1 - Day 3 - String Methods]]"]
 tags: [python, строки, split, join, парсинг]
 status: draft

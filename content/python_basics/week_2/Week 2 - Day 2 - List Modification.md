@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 2
 day: 2
 title: "Добавление и удаление элементов"
-concepts: [append(), insert(), remove(), pop()]
 prerequisites: ["[[Week 2 - Day 1 - List Basics]]"]
 tags: [python, списки, методы]
 status: draft

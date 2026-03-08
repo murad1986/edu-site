@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 1
 day: 6
 title: "Практикум: парсер игрового чата"
-concepts: [применение строковых навыков, парсинг, структурирование данных]
 prerequisites: ["[[Week 1 - Day 5 - F-Strings]]"]
 tags: [python, строки, практикум, парсер]
 status: draft

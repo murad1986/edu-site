@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 9
 day: 2
 title: "Карта мира — 5 комнат и навигация"
-concepts: [функция build_world, улучшенный describe_room, ASCII-карта, команда помощь]
 prerequisites: ["[[week_9/day_1]]"]
 tags: [python, текстовый-квест, ооп, проект]
 status: draft

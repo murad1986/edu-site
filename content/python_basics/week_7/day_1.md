@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 7
 day: 1
 title: "class и __init__ — создаём объекты"
-concepts: [class, __init__, self, атрибуты экземпляра]
 prerequisites: []
 tags: [python, ооп, классы, объекты, self, init]
 status: draft

@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 4
 day: 5
 title: "Пути к файлам — os.path и навигация"
-concepts: [os.path.exists, os.path.join, os.listdir, os.makedirs]
 prerequisites: ["[[week_4/day_4]]"]
 tags: [python, файлы, os, путь, директории]
 status: draft

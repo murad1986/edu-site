@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 2
 day: 6
 title: "Практикум: таблица рекордов RPG"
-concepts: []
 prerequisites: ["[[Week 2 - Day 5 - List Slicing]]"]
 tags: [python, списки, практика, проект]
 status: draft

@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 8
 day: 2
 title: "Линейный и бинарный поиск"
-concepts: [линейный поиск O(n), бинарный поиск O(log n), условие отсортированности, bisect]
 prerequisites: ["[[week_8/day_1]]"]
 tags: [python, алгоритмы, поиск, бинарный поиск, bisect]
 status: draft

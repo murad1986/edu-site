@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 4
 day: 6
 title: "Практика — менеджер персонажей RPG"
-concepts: []
 prerequisites: ["[[week_4/day_5]]"]
 tags: [python, практика, файлы, json, os, проект]
 status: draft

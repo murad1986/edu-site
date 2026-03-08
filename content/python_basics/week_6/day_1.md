@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 6
 day: 1
 title: "try/except — первый щит"
-concepts: [try/except, ValueError, FileNotFoundError, обработка исключений]
 prerequisites: ["[[week_5/day_7]]"]
 tags: [python, ошибки, try, except, исключения]
 status: draft

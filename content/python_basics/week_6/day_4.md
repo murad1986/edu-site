@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 6
 day: 4
 title: "Паттерны надёжного кода"
-concepts: [safe_load паттерн, логирование ошибок, try/except в цикле, цепочка вызовов]
 prerequisites: ["[[week_6/day_3]]"]
 tags: [python, ошибки, паттерны, logging, цикл]
 status: draft

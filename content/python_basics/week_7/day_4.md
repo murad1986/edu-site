@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 7
 day: 4
 title: "Инкапсуляция — защищаем данные героя"
-concepts: [инкапсуляция, _private конвенция, геттеры и сеттеры, валидация данных]
 prerequisites: ["[[week_7/day_3]]"]
 tags: [python, ооп, классы, инкапсуляция, геттеры, сеттеры]
 status: draft

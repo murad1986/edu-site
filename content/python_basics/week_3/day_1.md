@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 3
 day: 1
 title: "Словари — мгновенный поиск"
-concepts: [dict создание, dict[key] доступ, dict[key]=value запись, in и KeyError]
 prerequisites: ["[[week_2/day_7]]"]
 tags: [python, словари, dict, структуры-данных]
 status: draft

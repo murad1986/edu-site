@@ -4,7 +4,6 @@ course: "[[python_basics/README]]"
 week: 7
 day: 7
 title: "Лонгрид — Как ООП устроены враги в Dark Souls и предметы в Terraria"
-concepts: []
 prerequisites: ["[[week_7/day_6]]"]
 tags: [python, ооп, геймдев, dark souls, terraria, minecraft, лонгрид]
 status: draft
