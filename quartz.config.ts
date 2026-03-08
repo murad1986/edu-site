@@ -78,7 +78,19 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
+      Plugin.FolderPage({
+        sort: (f1, f2) => {
+          const s1 = f1.slug ?? ""
+          const s2 = f2.slug ?? ""
+          // folders before files
+          const f1IsFolder = s1.endsWith("/")
+          const f2IsFolder = s2.endsWith("/")
+          if (f1IsFolder && !f2IsFolder) return -1
+          if (!f1IsFolder && f2IsFolder) return 1
+          // then alphabetically by slug
+          return s1.localeCompare(s2)
+        },
+      }),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
