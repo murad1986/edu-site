@@ -8,16 +8,16 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "Образовательная Платформа",
+    pageTitleSuffix: " | EduPlatform",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    locale: "ru-RU",
+    baseUrl: "edu-site.vercel.app",
+    ignorePatterns: ["private", "templates", ".obsidian", "_meta"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
