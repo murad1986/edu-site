@@ -77,7 +77,7 @@ status: published
 
 **Process Cycle Efficiency = 1.1%**
 
-!["w1d2_pharma_spaghetti.png"](w1d2_pharma_spaghetti.png)
+![[w1d2_pharma_spaghetti.png]]
 *(Создай иллюстрацию в стиле Technical Blueprint: План помещения (Spaghetti Diagram). Красная линия хаотично движется по цеху (Total distance: 550m) — это путь таблетки "До". Зеленая прямая линия (50m) — это "Целевой поток". Метрики: 18 дней vs 4 часа.)*
 
 Томас рисует на доске схему для Элизабет:
@@ -102,7 +102,7 @@ status: published
 
 Запомните акроним: **TIM WOOD U**.
 
-!["eight_wastes_icons.png"](eight_wastes_icons.png)
+![[eight_wastes_icons.png]]
 *(Создай иллюстрацию в стиле Technical Blueprint: Матрица иконок 4x2. Строгие технические символы красного цвета.
 T-Transport (грузовик), I-Inventory (коробки), M-Motion (идущий человек), W-Waiting (часы),
 O-Overproduction (гора деталей), O-Overprocessing (молоток), D-Defects (крест), U-Talent (мозг/лампочка).)*
@@ -131,7 +131,7 @@ O-Overproduction (гора деталей), O-Overprocessing (молоток), D
 
 Одна ошибка (сделать лишнее) породила шесть проблем.
 
-!["w1d2_overproduction_domino.png"](w1d2_overproduction_domino.png)
+![[w1d2_overproduction_domino.png]]
 *(Создай иллюстрацию в стиле Technical Blueprint: Ряд падающих домино. Первая огромная костяшка "OVERPRODUCTION" падает и толкает "INVENTORY", "TRANSPORT", "WAITING". В конце цепи раздавленный мешок "PROFIT".)*
 
 > [!WARNING] Правило Lean №1
@@ -189,7 +189,7 @@ Lean принудительно **снижает уровень воды** (ум
 Больно? Да. Опасно? Да.
 Но теперь вы **видите** камень. И вы вынуждены его разбить (улучшить процесс), чтобы плыть дальше.
 
-!["w1d2_river_inventory.png"](w1d2_river_inventory.png)
+![[w1d2_river_inventory.png]]
 *(Создай иллюстрацию в стиле Technical Blueprint: Поперечный разрез реки. Уровень воды (синий) — это "Inventory". Под водой скрыты острые камни (красные) с подписями: "Scrap", "Downtime", "Long Setup". Кораблик "Production" плывет сверху. Стрелка "Reduce Inventory" показывает снижение уровня воды, обнажая камни.)*
 
 **Примеры:**
