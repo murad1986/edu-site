@@ -3,7 +3,7 @@ type: lesson
 course: "[[1c_erp_qcom/README]]"
 week: 1
 day: 5
-prerequisites: ["[[1c_erp_qcom/week_1/Week 1 - Day 4 - Posting Logic|Документооборот и регистры]]"]
+prerequisites: ["[[1c_erp_qcom/week_1/Week 1 - Day 4 - Документооборот и регистры|Документооборот и регистры]]"]
 tags: [1c, erp, qcom, reporting, analytics, pnl, dashboard, gross-profit]
 status: draft
 ---

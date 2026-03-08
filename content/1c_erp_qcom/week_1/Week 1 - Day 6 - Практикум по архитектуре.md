@@ -3,7 +3,7 @@ type: lesson
 course: "[[1c_erp_qcom/README]]"
 week: 1
 day: 6
-prerequisites: ["[[1c_erp_qcom/week_1/Week 1 - Day 5 - Reporting Basics|Отчётность и Аналитика]]"]
+prerequisites: ["[[1c_erp_qcom/week_1/Week 1 - Day 5 - Отчётность и аналитика|Отчётность и Аналитика]]"]
 tags: [1c, erp, qcom, workshop, enterprise-design, org-structure, accounting-policy]
 status: draft
 ---

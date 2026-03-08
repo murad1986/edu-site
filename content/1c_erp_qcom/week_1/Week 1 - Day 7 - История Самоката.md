@@ -3,7 +3,7 @@ type: lesson
 course: "[[1c_erp_qcom/README]]"
 week: 1
 day: 7
-prerequisites: ["[[1c_erp_qcom/week_1/Week 1 - Day 6 - Enterprise Design Workshop|Практикум]]"]
+prerequisites: ["[[1c_erp_qcom/week_1/Week 1 - Day 6 - Практикум по архитектуре|Практикум]]"]
 tags: [1c, erp, qcom, samokat, case-study, architecture, scaling]
 status: draft
 ---
