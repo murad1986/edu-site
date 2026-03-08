@@ -4,6 +4,7 @@ course: "[[python_basics/README]]"
 week: 2
 day: 7
 title: "Лонгрид: списки в реальных играх — от Terraria до Pokemon"
+concepts: []
 prerequisites: ["[[Week 2 - Day 6 - Practice Leaderboard]]"]
 tags: [python, списки, игры, лонгрид]
 status: draft

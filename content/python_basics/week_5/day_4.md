@@ -3,6 +3,11 @@ type: lesson
 week: 5
 day: 4
 title: "lambda и sorted — функции в одну строку"
+concepts:
+  - lambda (анонимная функция)
+  - sorted() с key=
+  - min() и max() с key=
+  - передача функции как аргумента
 prerequisites:
   - week_5/day_3
 tags:

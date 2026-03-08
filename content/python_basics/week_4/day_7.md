@@ -4,6 +4,7 @@ course: "[[python_basics/README]]"
 week: 4
 day: 7
 title: "Лонгрид: как устроены сейвы в Minecraft, Hollow Knight и Stardew Valley"
+concepts: []
 prerequisites: ["[[week_4/day_6]]"]
 tags: [python, файлы, json, сейвы, игры, лонгрид]
 status: draft

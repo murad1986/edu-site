@@ -4,6 +4,7 @@ course: "[[python_basics/README]]"
 week: 6
 day: 3
 title: "raise — бросаем исключения сами"
+concepts: [raise, валидация входных данных, raise ValueError, правила defensive programming]
 prerequisites: ["[[week_6/day_2]]"]
 tags: [python, ошибки, raise, валидация, defensive-programming]
 status: draft

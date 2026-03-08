@@ -4,6 +4,7 @@ course: "[[python_basics/README]]"
 week: 10
 day: 4
 title: "День 4 — Финальная архитектура: полный квест"
+concepts: [система XP и уровней, финальный босс, полная карта мира, условие победы]
 prerequisites: ["[[week_10/day_3]]"]
 tags: [python, текстовый-квест, проект, архитектура]
 status: draft

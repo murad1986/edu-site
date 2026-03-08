@@ -4,6 +4,7 @@ course: "[[python_basics/README]]"
 week: 1
 day: 1
 title: "Индексы: каждый символ имеет адрес"
+concepts: [индексация строк, отрицательные индексы, len(), f-строки базовые]
 prerequisites: [print, input, переменные, if/else, циклы]
 tags: [python, строки, индексация]
 status: draft

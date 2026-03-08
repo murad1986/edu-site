@@ -4,6 +4,7 @@ course: "[[python_basics/README]]"
 week: 3
 day: 2
 title: "Методы словаря — перебор и безопасный доступ"
+concepts: [.get(), методы просмотра keys/values/items, for k v in items(), .update()]
 prerequisites: ["[[week_3/day_1]]"]
 tags: [python, словари, dict, методы]
 status: draft

@@ -797,4 +797,4 @@ Content: Матрица 5×4. Строки — пять компаний (Сам
 
 ---
 
-← [[Week 1 - Day 6 - Enterprise Design Workshop|День 6]] | [[1c_erp_qcom/README|Оглавление]] | [[Week 2 - Day 1 - Nomenclature Master|Неделя 2, День 1]] →
+← [[Week 1 - Day 6 - Практикум по архитектуре|День 6]] | [[1c_erp_qcom/README|Оглавление]] | [[Week 2 - Day 1 - Nomenclature Master|Неделя 2, День 1]] →

@@ -1,7 +1,7 @@
 ---
 type: lesson
-course: "[[retail_finance/README]]"
-prerequisites: "[[Week 5 - Day 3: Инвентарь в TOC: Пассив, а не Актив?]]"
+course: [[retail_finance/README]]
+prerequisites: [[Week 5 - Day 3: Инвентарь в TOC: Пассив, а не Актив?]]
 week: 5
 day: 4
 ---

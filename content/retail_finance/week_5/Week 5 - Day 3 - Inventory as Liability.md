@@ -1,7 +1,7 @@
 ---
 type: lesson
-course: "[[retail_finance/README]]"
-prerequisites: "[[Week 5 - Day 2: Метрики TOC: T (Проход), I (Вложения), OE (Опер. расходы)]]"
+course: [[retail_finance/README]]
+prerequisites: [[Week 5 - Day 2: Метрики TOC: T (Проход), I (Вложения), OE (Опер. расходы)]]
 week: 5
 day: 3
 ---

@@ -1,7 +1,7 @@
 ---
 type: lesson
-course: "[[retail_finance/README]]"
-prerequisites: "[[Week 5 - Day 5: Дилемма ритейлера: Держать много vs Держать мало]]"
+course: [[retail_finance/README]]
+prerequisites: [[Week 5 - Day 5: Дилемма ритейлера: Держать много vs Держать мало]]
 week: 5
 day: 6
 ---

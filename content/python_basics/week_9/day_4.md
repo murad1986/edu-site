@@ -4,6 +4,7 @@ course: "[[python_basics/README]]"
 week: 9
 day: 4
 title: "День 4 — Враги и бой"
+concepts: [класс Enemy, функция battle, команда атаковать, лут после победы]
 prerequisites: ["[[week_9/day_3]]"]
 tags: [python, текстовый-квест, ооп, проект]
 status: draft

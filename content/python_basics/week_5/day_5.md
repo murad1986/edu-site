@@ -3,6 +3,11 @@ type: lesson
 week: 5
 day: 5
 title: "import — модули и стандартная библиотека"
+concepts:
+  - как работает import
+  - import random
+  - import copy и deepcopy
+  - создание своего модуля
 prerequisites:
   - week_5/day_4
 tags:

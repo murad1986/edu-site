@@ -4,6 +4,7 @@ course: "[[python_basics/README]]"
 week: 6
 day: 5
 title: "Свои исключения"
+concepts: [class MyError(Exception), иерархия исключений, raise MyError, когда нужны свои исключения]
 prerequisites: ["[[week_6/day_4]]"]
 tags: [python, ошибки, исключения, класс, иерархия]
 status: draft

@@ -4,6 +4,7 @@ course: "[[python_basics/README]]"
 week: 2
 day: 1
 title: "Списки: создание и доступ по индексу"
+concepts: [создание списка, доступ по индексу, изменение по индексу, len() для списка]
 prerequisites: ["[[Week 1 - Day 7 - Rest]]"]
 tags: [python, списки, индексация]
 status: draft

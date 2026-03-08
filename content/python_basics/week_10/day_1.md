@@ -4,6 +4,7 @@ course: "[[python_basics/README]]"
 week: 10
 day: 1
 title: "День 1 — import random: квест становится живым"
+concepts: [import random, random.choice, random.randint, случайные события в игре]
 prerequisites: ["[[week_9/day_7]]"]
 tags: [python, текстовый-квест, random, проект]
 status: draft

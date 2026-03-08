@@ -3,6 +3,7 @@ type: lesson
 week: 5
 day: 7
 title: "Лонгрид: Баги на миллионы — Knight Capital, Ariane 5 и Mars Orbiter"
+concepts: []
 prerequisites:
   - week_5/day_6
 tags:

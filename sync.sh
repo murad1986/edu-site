@@ -8,6 +8,7 @@ rsync -a --delete \
   --exclude=".obsidian/" \
   --exclude="*.canvas" \
   --exclude="python_basics/course_site/" \
+  --filter="protect index.md" \
   "$VAULT/" "$DEST/"
 
 echo "Sync done: $DEST"

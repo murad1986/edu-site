@@ -4,6 +4,7 @@ course: "[[python_basics/README]]"
 week: 4
 day: 2
 title: "Файлы — записываем данные на диск"
+concepts: [режимы w и a, write() и writelines(), \n в строках]
 prerequisites: ["[[week_4/day_1]]"]
 tags: [python, файлы, запись, write, append]
 status: draft

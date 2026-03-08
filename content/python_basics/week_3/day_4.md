@@ -4,6 +4,7 @@ course: "[[python_basics/README]]"
 week: 3
 day: 4
 title: "Множества — уникальность и операции над группами"
+concepts: [set создание, add() discard(), in у set O(1), операции | & - ^]
 prerequisites: ["[[week_3/day_3]]"]
 tags: [python, множества, set, теория-множеств]
 status: draft

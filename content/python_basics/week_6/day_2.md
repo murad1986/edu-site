@@ -4,6 +4,7 @@ course: "[[python_basics/README]]"
 week: 6
 day: 2
 title: "except по типу, else и finally"
+concepts: [except конкретного типа, несколько except, else блок, finally блок]
 prerequisites: ["[[week_6/day_1]]"]
 tags: [python, ошибки, except, else, finally]
 status: draft

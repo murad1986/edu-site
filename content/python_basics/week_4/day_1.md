@@ -4,6 +4,7 @@ course: "[[python_basics/README]]"
 week: 4
 day: 1
 title: "Файлы — читаем данные с диска"
+concepts: [open() и with, read() и readlines(), for line in file, режимы открытия]
 prerequisites: ["[[week_3/day_7]]"]
 tags: [python, файлы, open, with, чтение]
 status: draft

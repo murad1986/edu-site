@@ -4,6 +4,7 @@ course: "[[python_basics/README]]"
 week: 8
 day: 1
 title: "Алгоритмы вокруг нас — что такое сложность"
+concepts: [алгоритм, Big O нотация, O(1) O(n) O(n²), time.time()]
 prerequisites: ["[[week_7/day_7]]"]
 tags: [python, алгоритмы, big-o, сложность, time]
 status: draft

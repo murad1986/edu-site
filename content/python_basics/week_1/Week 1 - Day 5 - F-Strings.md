@@ -4,6 +4,7 @@ course: "[[python_basics/README]]"
 week: 1
 day: 5
 title: "f-строки: красивый вывод"
+concepts: [вставка выражений в f-строки, форматирование чисел, выравнивание текста]
 prerequisites: ["[[Week 1 - Day 4 - Split and Join]]"]
 tags: [python, строки, f-strings, форматирование]
 status: draft

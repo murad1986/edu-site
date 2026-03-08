@@ -4,6 +4,7 @@ course: "[[python_basics/README]]"
 week: 10
 day: 2
 title: "День 2 — Модули: один файл стал проектом"
+concepts: [разбивка на модули, import своего файла, структура проекта, from import]
 prerequisites: ["[[week_10/day_1]]"]
 tags: [python, модули, структура-проекта, текстовый-квест]
 status: draft

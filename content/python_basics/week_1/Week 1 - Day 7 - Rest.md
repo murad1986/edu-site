@@ -4,6 +4,7 @@ course: "[[python_basics/README]]"
 week: 1
 day: 7
 title: "Лонгрид: как текст хранят Minecraft, Telegram и Spotify"
+concepts: [применение строк в реальных продуктах]
 prerequisites: ["[[Week 1 - Day 6 - Practice Chat Parser]]"]
 tags: [python, строки, лонгрид, minecraft, telegram, spotify]
 status: draft

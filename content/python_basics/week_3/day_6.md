@@ -4,6 +4,7 @@ course: "[[python_basics/README]]"
 week: 3
 day: 6
 title: "Практика — Лут-система для RPG"
+concepts: []
 prerequisites: ["[[week_3/day_5]]"]
 tags: [python, практика, словари, множества, проект]
 status: draft

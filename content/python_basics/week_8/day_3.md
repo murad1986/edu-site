@@ -4,6 +4,7 @@ course: "[[python_basics/README]]"
 week: 8
 day: 3
 title: "Сортировка — пузырёк, выбор, встроенная"
+concepts: [пузырьковая сортировка O(n²), сортировка выбором O(n²), sorted() O(n log n), ключ сортировки]
 prerequisites: ["[[week_8/day_2]]"]
 tags: [python, алгоритмы, сортировка, bubble sort, selection sort, sorted]
 status: draft

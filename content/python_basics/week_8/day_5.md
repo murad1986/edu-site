@@ -4,6 +4,7 @@ course: "[[python_basics/README]]"
 week: 8
 day: 5
 title: "Жадные алгоритмы и мемоизация"
+concepts: [жадный алгоритм, контрпример к жадному алгоритму, мемоизация, lru_cache]
 prerequisites: ["[[week_8/day_4]]"]
 tags: [python, алгоритмы, greedy, мемоизация, динамическое программирование]
 status: draft

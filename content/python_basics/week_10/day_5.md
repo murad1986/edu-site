@@ -4,6 +4,7 @@ course: "[[python_basics/README]]"
 week: 10
 day: 5
 title: "День 5 — Горизонты: куда расти дальше"
+concepts: [Telegram-бот с telebot, Flask веб-сервер, pygame основы, что изучать дальше]
 prerequisites: ["[[week_10/day_4]]"]
 tags: [python, перспективы, telegram, flask, pygame]
 status: draft

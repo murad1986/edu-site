@@ -4,6 +4,7 @@ course: "[[python_basics/README]]"
 week: 9
 day: 5
 title: "День 5 — Сохранение и загрузка"
+concepts: [сохранение в JSON, загрузка из JSON, автосохранение, обработка отсутствующего файла]
 prerequisites: ["[[week_9/day_4]]"]
 tags: [python, текстовый-квест, ооп, проект, json]
 status: draft

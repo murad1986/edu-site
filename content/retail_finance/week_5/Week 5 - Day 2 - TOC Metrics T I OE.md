@@ -1,7 +1,7 @@
 ---
 type: lesson
-course: "[[retail_finance/README]]"
-prerequisites: "[[Week 5 - Day 1: Введение в TOC: Cost Accounting vs Throughput Accounting]]"
+course: [[retail_finance/README]]
+prerequisites: [[Week 5 - Day 1: Введение в TOC: Cost Accounting vs Throughput Accounting]]
 week: 5
 day: 2
 ---

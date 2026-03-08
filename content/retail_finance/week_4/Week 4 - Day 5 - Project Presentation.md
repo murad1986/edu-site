@@ -1,7 +1,7 @@
 ---
 type: lesson
-course: "[[retail_finance/README]]"
-prerequisites: "[[Week 4 - Day 4: Финальный Проект: Стратегия оздоровления сети]]"
+course: [[retail_finance/README]]
+prerequisites: [[Week 4 - Day 4: Финальный Проект: Стратегия оздоровления сети]]
 week: 4
 day: 5
 ---

@@ -4,6 +4,7 @@ course: "[[python_basics/README]]"
 week: 2
 day: 4
 title: "Сортировка: sort() vs sorted()"
+concepts: [sort(), sorted(), reverse=True, сортировка строк]
 prerequisites: ["[[Week 2 - Day 3 - List Iteration]]"]
 tags: [python, списки, сортировка]
 status: draft
