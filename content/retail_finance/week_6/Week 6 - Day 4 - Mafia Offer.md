@@ -1,7 +1,7 @@
 ---
 type: lesson
-course: [[retail_finance/README]]
-prerequisites: [[Week 6 - Day 3: Управление Ассортиментом: MTA vs MTO]]
+course: "[[retail_finance/README]]"
+prerequisites: "[[Week 6 - Day 3: Управление Ассортиментом: MTA vs MTO]]"
 week: 6
 day: 4
 ---
